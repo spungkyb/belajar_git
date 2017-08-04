@@ -10,4 +10,5 @@ namun tetaplah manusia
 	-untracked
 	-staged
 	-commited
+nnkdfksjlfs
 
