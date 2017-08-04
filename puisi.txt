@@ -1,6 +1,13 @@
 Dia
 
-Dia bukan manusia
+Dia manusia tercyanggih
 hanyalah manusia
 yang bukan manusia
 namun tetaplah manusia
+
+
+
+	-untracked
+	-staged
+	-commited
+
